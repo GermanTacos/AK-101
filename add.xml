@@ -1,0 +1,71 @@
+<AddFiles directory="assets">
+
+	<!-- WEAPON PARTS -->
+	
+	<unit_npc	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556/wpn_fps_ass_ak_stamp_556"/>
+	
+	<!-- DUMMY PARTS -->
+	
+	<unit_obj    path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_dummy_pts/wpn_fps_ass_ak_stamp_556_ba_dummy"/>
+	
+	<!-- AK-101 PARTS -->
+	
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/ak101_main_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/ak101_handguard_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/ak101_stock_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/ak101_pistol_grip_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/ak101_dust_cover_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/ak101_rear_sight_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/ak101_bolt_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/ak101_muzzle_brake_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_ba_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_bo_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_clr_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_dc_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_fsl_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_gb_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_gt_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_lfhgr_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_ufhgr_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_urhgr_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_hm_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_lhg_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_uhg_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_mr_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_md_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_pg_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_pgr_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_fs_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_fsb_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_rs_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_rsb_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_rcs_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_re_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_st_f_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_st_uf_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_str_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_tr_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_trg_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_ftru_ak101"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak101_pts/wpn_fps_ass_ak_stamp_556_rtru_ak101"/>
+	
+	<!-- AK-102 PARTS -->
+	
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak102_pts/ak102_main_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak102_pts/ak102_muzzle_brake_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak102_pts/wpn_fps_ass_ak_stamp_556_ba_ak102"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak102_pts/wpn_fps_ass_ak_stamp_556_clr_ak102"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak102_pts/wpn_fps_ass_ak_stamp_556_gb_ak102"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak102_pts/wpn_fps_ass_ak_stamp_556_md_ak102"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak102_pts/wpn_fps_ass_ak_stamp_556_re_ak102"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak102_pts/wpn_fps_ass_ak_stamp_556_ftru_ak102"/>
+	
+	<!-- MAG PARTS -->
+	
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_mag_pts/mag_poly_30_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_mag_pts/wpn_fps_ass_ak_stamp_556_m_poly_30"/>
+
+</AddFiles>
