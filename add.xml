@@ -65,7 +65,11 @@
 	<!-- MAG PARTS -->
 	
 	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_mag_pts/mag_poly_30_std"/>
+	<df_nm_cc 	 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_mag_pts/mag_bulge_30_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_mag_pts/wpn_fps_ass_ak_stamp_556_m_poly_30"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_mag_pts/wpn_fps_ass_ak_stamp_556_m_bulge_30"/>
+	
+	
 
 </AddFiles>
