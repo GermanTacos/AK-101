@@ -6,7 +6,7 @@
 	
 	<!-- DUMMY PARTS -->
 	
-	<unit_obj    path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_dummy_pts/wpn_fps_ass_ak_stamp_556_ba_dummy"/>
+	<unit_obj    path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_shared_pts/wpn_fps_ass_ak_stamp_556_ba_dummy"/>
 	
 	<!-- AK-101 PARTS -->
 	

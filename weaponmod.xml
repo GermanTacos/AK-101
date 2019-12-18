@@ -2,7 +2,7 @@
 	
 	<!-- DUMMY -->
 	
-	<WeaponMod id="wpn_fps_ass_ak_stamp_556_ba_dummy"  		based_on="wpn_fps_ass_flint_b_standard"         type="barrel" 						 	unit="units/mods/weapons/wpn_fps_ass_ak_stamp_556_dummy_pts/wpn_fps_ass_ak_stamp_556_ba_dummy" 		texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_ass_ak_stamp_556_ba_dummy"  		based_on="wpn_fps_ass_flint_b_standard"         type="barrel" 						 	unit="units/mods/weapons/wpn_fps_ass_ak_stamp_556_shared_pts/wpn_fps_ass_ak_stamp_556_ba_dummy" 		texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
 	
 	<!-- AK-101 -->
 	
