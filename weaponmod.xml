@@ -72,6 +72,7 @@
 		<override>
 			<wpn_fps_ass_ak_stamp_556_clr_ak101  unit="units/mods/weapons/wpn_fps_ass_ak_stamp_556_ak102_pts/wpn_fps_ass_ak_stamp_556_clr_ak102"/>
 			<wpn_fps_ass_ak_stamp_556_fsb_ak101  unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
+			<wpn_fps_ass_ak_stamp_556_gb_ak101   unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"/>
 		</override>
 		<adds>
 			<value_node value="wpn_fps_ass_ak_stamp_556_gb_ak102"/>
