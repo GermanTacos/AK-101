@@ -1,5 +1,17 @@
 Hooks:PostHook( WeaponTweakData, "init", "AK-101Init", function(self)
 
+--- TBC ---
+if self.new_m4.reload_timed_stance_mod then
+	self.ak_stamp_556.reload_timed_stance_mod = {
+		empty = {
+			hip = {
+				{t = 1.2, translation = Vector3(-25, 18, -10), rotation = Rotation(-50, 0, -40), speed = 0.5}, -- turn gun over to check that bolt has released
+				{t = 0.0, translation = Vector3(0, 0, 0), rotation = Rotation(0, 0, 0), speed = 0.5} -- return to default position
+			}
+		}
+	}
+end
+
 if self.SetupAttachmentPoint then
 	
 	self:SetupAttachmentPoint("ak_stamp_556", {
@@ -19,7 +31,7 @@ if self.SetupAttachmentPoint then
 	self:SetupAttachmentPoint("heffy_556", {
 		name = "a_o", 
         base_a_obj = "a_o", 
-        position = Vector3( 0, -9, 0.5 ), 
+        position = Vector3( 0, -6, -0.5 ), 
         rotation = Rotation( 0, 0, 0 ) 
 	})
 end
