@@ -105,7 +105,7 @@
 				
 				<value_node value="wpn_fps_ass_ak_stamp_556_ba_ak102"/>
 				<value_node value="wpn_fps_ass_ak_stamp_556_gb_ak102"/>
-				<value_node value="wpn_fps_ass_ak_stamp_556_re_ak102"/>
+				<!-- <value_node value="wpn_fps_ass_ak_stamp_556_re_ak102"/> -->
 				<value_node value="wpn_fps_ass_ak_stamp_556_md_ak102"/>
 				
 				<value_node value="wpn_fps_ass_ak_stamp_556_clr_no"/>
