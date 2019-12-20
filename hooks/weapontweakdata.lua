@@ -34,6 +34,14 @@ if self.SetupAttachmentPoint then
         position = Vector3( 0, -6, -0.5 ), 
         rotation = Rotation( 0, 0, 0 ) 
 	})
+	
+	self:SetupAttachmentPoint("ak_stamp_556", {
+		name = "a_fo_ak102",
+		base_a_obj = "a_body",
+		position = Vector3( 0, -10.6, 0 ),
+		rotation = Rotation( 0, 0, 0 )
+	})
+	
 end
 
 end)
