@@ -70,6 +70,10 @@
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_mag_pts/wpn_fps_ass_ak_stamp_556_m_poly_30"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_mag_pts/wpn_fps_ass_ak_stamp_556_m_bulge_30"/>
 	
+	<!-- MOUNT PARTS -->
 	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_shared_pts/tula_optic_mount_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_shared_pts/wpn_fps_ass_ak_stamp_556_om_tula"/>
 
 </AddFiles>
