@@ -75,5 +75,9 @@
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_shared_pts/tula_optic_mount_std"/>
 	
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_stamp_556_shared_pts/wpn_fps_ass_ak_stamp_556_om_tula"/>
+	
+	<!-- ICONS -->
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/ak_stamp_556"/>
 
 </AddFiles>
