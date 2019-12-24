@@ -62,6 +62,8 @@
 				<value_node value="wpn_fps_ass_ak_stamp_556_ftru_ak101"/>
 				<value_node value="wpn_fps_ass_ak_stamp_556_rtru_ak101"/>
 				
+				<value_node value="wpn_fps_ass_ak_stamp_556_o_dummy"/>
+				
 				<value_node value="wpn_fps_ass_ak_stamp_556_m_poly_30"/>
 				
 			</default_blueprint>
@@ -99,6 +101,8 @@
 				<value_node value="wpn_fps_ass_ak_stamp_556_trg_ak101"/>
 				<value_node value="wpn_fps_ass_ak_stamp_556_ftru_ak101"/>
 				<value_node value="wpn_fps_ass_ak_stamp_556_rtru_ak101"/>
+				
+				<value_node value="wpn_fps_ass_ak_stamp_556_o_dummy"/>
 				
 				<value_node value="wpn_fps_ass_ak_stamp_556_m_poly_30"/>
 				<value_node value="wpn_fps_ass_ak_stamp_556_m_bulge_30"/>
