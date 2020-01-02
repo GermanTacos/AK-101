@@ -15,7 +15,7 @@
 			<animations reload_name_id="flint" equip_id="equip_flint" recoil_steelsight="true"/>
 		</weapon>
 
-		<factory id="wpn_fps_ass_ak_stamp_556" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_556/wpn_fps_ass_ak_stamp_556" >
+		<factory id="wpn_fps_ass_ak_stamp_556" unit="units/mods/weapons/wpn_fps_ass_ak_stamp_556/wpn_fps_ass_ak_stamp_556" stock_adapter="wpn_fps_pis_sparrow_g_dummy">
 			
 			<animations fire="recoil" reload="reload" reload_not_empty="reload_not_empty" fire_steelsight="recoil"/>
 			

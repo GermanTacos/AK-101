@@ -49,7 +49,14 @@ local all_ak556ext = {
 	"wpn_fps_ass_ak_stamp_556_md_ak101",
 	"wpn_fps_ass_ak_stamp_556_md_ak102"
 }
-
+local all_ar15stock = {
+	"wpn_fps_upg_m4_s_standard",
+	"wpn_fps_upg_m4_s_pts",
+	"wpn_fps_upg_m4_s_crane",
+	"wpn_fps_upg_m4_s_mk46",
+	"wpn_fps_upg_m4_s_ubr",
+	"wpn_fps_snp_tti_s_vltor"
+}
 --- CAFCW aka better later then never also holy shit this actually works ---
 if attach_tables then
 	for _, md_id in pairs(attach_tables.Barrel_Extensions) do
@@ -72,6 +79,11 @@ if attach_tables then
 			table.insert(all_ak556sight, o_id)
 		end
 	end
+	for _, st_id in pairs(attach_tables.AR15_Stocks) do
+		if self.parts[st_id] then
+			table.insert(all_ar15stock, st_id)
+		end
+	end
 	--[[
 	if attach_tables.Custom_AK then --safety (since that thing doesn't exist in older versions)
 		for _, o_id in pairs(attach_tables.Custom_AK) do
@@ -87,6 +99,15 @@ end
 --=========================--
 --      COMPATIBILITY      --
 --=========================--
+
+--=========================--
+--        REQUIRES         --
+--=========================--
+
+for id, st_id in pairs (all_ar15stock) do
+	self.wpn_fps_ass_ak_stamp_556.override[st_id] = {depends_on = "stock_adapter"}
+	self.wpn_fps_ass_ak_stamp_556.override[st_id] = {a_obj = "a_s_ar15"}
+end
 
 --=========================--
 --        	ADDS           --
