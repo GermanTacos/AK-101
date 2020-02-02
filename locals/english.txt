@@ -72,6 +72,7 @@
 	"bm_wp_wpn_fps_ass_ak_stamp_556_md_ak102"   : "AK-102 Flash Hider",
 	
 	"bm_wp_wpn_fps_ass_ak_stamp_556_m_poly_30"  : "30 Round Polymer Magazine",
+	"bm_wp_wpn_fps_ass_ak_stamp_556_m_ak101_30" : "30 Round Polymer AK-101 Magazine",
 	"bm_wp_wpn_fps_ass_ak_stamp_556_m_bulge_30" : "30 Round Arsenal Polymer Waffle Magazine",
 	
 	"bm_wp_wpn_fps_ass_ak_stamp_556_md_no"  : "Remove Muzzle Device",
